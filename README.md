@@ -1,6 +1,6 @@
 # ĐỀ TÀI RIÊNG: XÂY DỰNG CHƯƠNG TRÌNH NÉN VÀ GIẢI NÉN RUN-LENGTH ENCODING SONG SONG SỬ DỤNG PREFIX SUM
 
-**Dự án cuối kỳ môn: Tính toán song song - MI3310**  
+**Dự án cuối kỳ môn: Tính toán song song - MI4364**  
 **Nhóm: 22**  
 **Mã lớp học: 174400**  
 **Học kỳ: 20261**
